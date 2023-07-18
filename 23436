@@ -6,7 +6,6 @@ import wandb
 from PIL import Image
 from matplotlib import pyplot as plt
 from natsort import natsorted
-from omegaconf import OmegaConf
 from packaging import version
 from pytorch_lightning import seed_everything
 from pytorch_lightning.callbacks import Callback
